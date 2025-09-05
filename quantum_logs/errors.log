@@ -1,0 +1,19 @@
+[2025-04-22 22:14:17] 'QuantumAssistantPro' object has no attribute 'quizzes'
+[2025-04-22 22:14:27] 'QuantumAssistantPro' object has no attribute 'quizzes'
+[2025-04-22 22:23:34] Erro na criação: 
+[2025-04-22 22:23:52] name 'pkg_resources' is not defined
+[2025-04-22 22:26:33] Erro na criação: 
+[2025-04-22 23:30:30] Erro na criação: 
+[2025-04-22 23:54:19] Erro no processamento: 'super' object has no attribute 'process_command'
+[2025-04-23 00:35:26] Erro no processamento: 'super' object has no attribute 'process_command'
+[2025-04-23 00:35:26] AttributeError: 'super' object has no attribute 'process_command'
+[2025-04-23 02:23:53] Erro no processamento: 'QuantumAssistantPro' object has no attribute '_guide_project_creation'
+[2025-04-23 02:23:53] AttributeError: 'QuantumAssistantPro' object has no attribute '_guide_project_creation'
+[2025-04-23 02:24:14] Erro no processamento: 'QuantumAssistantPro' object has no attribute '_show_activation'
+[2025-04-23 02:24:14] AttributeError: 'QuantumAssistantPro' object has no attribute '_show_activation'
+[2025-04-23 02:40:11] AttributeError: 'QuantumAssistantPro' object has no attribute 'update_state'
+[2025-04-23 02:40:11] 'QuantumAssistantPro' object has no attribute 'update_state'
+[2025-04-23 04:11:24] 'charmap' codec can't encode character '\U0001f30c' in position 2: character maps to <undefined>
+[2025-04-23 20:37:01] Erro na execução:
+C:\Users\Marcelo\AppData\Local\Programs\Python\Python310\python.exe: can't find '__main__' module in 'C:\\Users\\Marcelo\\chat\\main.py'
+

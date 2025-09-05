@@ -1,0 +1,8 @@
+graph TD
+    A[Início] --> B[Verificação de Ambiente]
+    B --> C{Componentes OK?}
+    C -->|Sim| D[Carrega Módulos Quânticos]
+    C -->|Não| E[Painel de Correção]
+    D --> F[Execução Normal]
+    E --> G[Auto-reparação]
+    G --> B

@@ -1,0 +1,10 @@
+graph TD
+    A[Início] --> B[Verificação Técnica]
+    B --> C{Passou?}
+    C -->|Sim| D[Teste Prático com Qiskit]
+    C -->|Não| E[Reparo Automático]
+    D --> F{Operacional?}
+    F -->|Sim| G[Laboratório Quântico]
+    F -->|Não| H[Diagnóstico Detalhado]
+    E --> B
+    H --> E

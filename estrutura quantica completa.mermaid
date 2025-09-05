@@ -1,0 +1,10 @@
+graph TD
+    A[Início] --> B[Validar Ambiente]
+    B --> C{Ambiente OK?}
+    C -->|Sim| D[Inicializar Circuito]
+    C -->|Não| E[Exibir Erros]
+    D --> F[Processar Comandos]
+    F --> G{Comando Válido?}
+    G -->|Sim| H[Executar Experimento]
+    G -->|Não| I[Exibir Ajuda]
+    H --> J[Exibir Resultados]

@@ -1,0 +1,63 @@
+
+🕒 2025-04-24 16:30:37
+[ERRO] ⚠️ Você **não está** em um ambiente virtual (venv).
+[ERRO] ⚠️ Inconsistências encontradas:
+- qiskit: instalado 0.45.2, necessário 1.0.2
+- qiskit-aer: instalado 0.13.2, necessário 0.13.0
+- qiskit-ibm-provider não está instalado.
+- streamlit: instalado 1.33.0, necessário 1.32.0
+- plotly: instalado 6.0.1, necessário 5.18.0
+- scikit-learn não está instalado.
+- packaging: instalado 24.2, necessário 23.2
+------------------------------------------------------------
+
+🕒 2025-04-24 16:53:25
+[ERRO] ⚠️ Você **não está** em um ambiente virtual (venv).
+[ERRO] ⚠️ Inconsistências encontradas:
+- qiskit: instalado 0.45.2, necessário 1.0.2
+- qiskit-aer: instalado 0.13.2, necessário 0.13.0
+- qiskit-ibm-provider não está instalado.
+- streamlit: instalado 1.33.0, necessário 1.32.0
+- plotly: instalado 6.0.1, necessário 5.18.0
+- scikit-learn não está instalado.
+- packaging: instalado 24.2, necessário 23.2
+------------------------------------------------------------
+
+🕒 2025-04-24 16:56:38
+[ERRO] ⚠️ Você **não está** em um ambiente virtual (venv).
+[ERRO] ⚠️ Inconsistências encontradas:
+- qiskit: instalado 0.45.2, necessário 1.0.2
+- qiskit-aer: instalado 0.13.2, necessário 0.13.0
+- qiskit-ibm-provider não está instalado.
+- streamlit: instalado 1.33.0, necessário 1.32.0
+- plotly: instalado 6.0.1, necessário 5.18.0
+- scikit-learn não está instalado.
+- packaging: instalado 24.2, necessário 23.2
+------------------------------------------------------------
+
+🕒 2025-04-24 18:02:32
+[OK] ✅ Ambiente virtual detectado.
+[ERRO] ⚠️ Inconsistências encontradas:
+- scikit-learn não está instalado.
+------------------------------------------------------------
+
+🕒 2025-04-24 18:04:50
+[OK] ✅ Ambiente virtual detectado.
+[ERRO] ⚠️ Inconsistências encontradas:
+- scikit-learn não está instalado.
+------------------------------------------------------------
+
+🕒 2025-04-24 18:10:09
+[OK] ✅ Ambiente virtual detectado.
+[ERRO] ⚠️ Inconsistências encontradas:
+- scikit-learn não está instalado.
+------------------------------------------------------------
+
+🕒 2025-04-24 18:41:48
+[OK] ✅ Ambiente virtual detectado.
+[ERRO] ⚠️ Inconsistências encontradas:
+- qiskit: instalado 2.0.0, necessário 1.0.2
+- qiskit-aer: instalado 0.17.0, necessário 0.13.0
+- qiskit-ibm-provider: instalado 0.11.0, necessário 0.8.0
+- scikit-learn não está instalado.
+------------------------------------------------------------

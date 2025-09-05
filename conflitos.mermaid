@@ -1,0 +1,7 @@
+graph TD
+    A[Ativar Venv] --> B[Executar Validação]
+    B --> C{Ambiente OK?}
+    C -->|Sim| D[Iniciar Aplicação]
+    C -->|Não| E[Executar Reparo Automático]
+    E --> F[Reiniciar Validação]
+    F --> C
