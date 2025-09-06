@@ -11,4 +11,5 @@ sympy>=1.12
 astropy>=5.3.2
 networkx>=3.1
 fpdf>=1.7.2
-psutil>=5.9.0  # ← ADICIONE ESTA LINHA
+psutil>=5.9.0
+qiskit>=1.0.0  # ← ADICIONE ESTA LINHA
